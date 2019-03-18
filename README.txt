@@ -1,4 +1,4 @@
-Battleship Puzzle Solver:
+# Battleship Puzzle Solver:
 
 Explination of battleship puzzle game: https://en.wikipedia.org/wiki/Battleship_(puzzle)
 
